@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oflyraf-0.4.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ofly-0.4.3/oflyraf-0.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
